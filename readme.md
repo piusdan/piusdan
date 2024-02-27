@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 📚 I’m currently reading **The ABC of Relativity By Bertrand Russell**
-- 👯 I’m looking to collaborate on **C, C++, C#, Javascript/TypeScript, Python**
+- 👯 I’m looking to collaborate on **C#, Javascript/TypeScript, Python** in that Order.
 - 💬 Ask me about **Software Engineering**
 
 ## :hourglass: Hours spent coding
