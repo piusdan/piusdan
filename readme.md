@@ -3,7 +3,7 @@
 - 📚 I’m currently reading **The ABC of Relativity By Bertrand Russell**
 - 👯 I’m looking to collaborate on **C#, Javascript/TypeScript, Python** in that Order.
 - 💬 Ask me about **Software Engineering**
-- ![](https://github.com/piusdan/resume/blob/master/resume.pdf)
+- [Download my resume](https://github.com/piusdan/resume/blob/master/resume.pdf)
 
 ## :hourglass: Hours spent coding
 
